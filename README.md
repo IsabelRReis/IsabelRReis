@@ -198,6 +198,74 @@ Resumo da proposta: Desenvolver um sistema WEB de gerenciamento de usuários, as
   <img width="50 rem" src="https://cdn.iconscout.com/icon/free/png-256/free-nodejs-2-226035.png"/>NodeJS 
   > IDE utilizada no desevolvimento do projeto.
 
+  <img width="50 rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"/>PostgreSQL 
+  > Principal banco de dados utilizado para armazenar as informações da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável
+
+  <img width="50 rem" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradore
+
+ </details>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+No projeto descrito fiquei responsável pela parte do Front-End do porjeto, além da parte de documentação feita no Github.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento WEB (Utilizando TypeScript, React, NodeJS)
+* Arquitetura de banco de dados (Utilizando PostgreSQL)
+* Controle de dados (PostgreSQL)
+* Controle de versionamento (GIT)  
+
+### Soft skills
+
+* Organização 
+> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas.
+
+* Comunicação 
+> Alcançada por meio da comunicação estabelecida com a equipe, durante reuniões, divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida pelos integrantes.
+ 
+* Proatividade
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto.
+
+* Trabalho em equipe
+> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar os objetivos estabelecidos.
+
+### Em julho de 2023
+
+</Div align="justify" >
+
+ > [Link para a API do 4º Semestre](https://github.com/IsabelRReis/API-4-ADS)
+
+Resumo da proposta: Sistema Web com Regra de Negócio complexa em ambiente de produção, o projeto consiste em criar uma plataforma que gerenciaria os créditos a serem usados posteriormente pelos estabelecimentos cadastrados de forma que poderiam ser usados na compra na loja virtual da empresa parceira.
+</Div
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+  <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>TypeScript 
+  > Principal linguagem utilizada.
+
+  <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>React 
+  > Principal biblioteca utilizada para o desevolvimento da parte de Front-End do projeto.
+
+  <img width="50 rem" src="https://cdn.iconscout.com/icon/free/png-256/free-nodejs-2-226035.png"/>NodeJS 
+  > IDE utilizada no desevolvimento do projeto.
+
+  <img width="50 rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"/>PostgreSQL 
+  > Principal banco de dados utilizado para armazenar as informações da aplicação.
+
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
   > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável
 
