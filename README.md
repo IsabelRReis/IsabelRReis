@@ -42,10 +42,7 @@ O projeto integrador teve como colaborador um cliente interno.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo apresentado ao cliente.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
-  > Utilizado para o desenvolvimento do código de todo o projeto.
-
+> 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
   > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraído do site da Fatec (APIs passadas) que era nosso principal objetivo.
 
@@ -93,6 +90,72 @@ No projeto descrito fiquei responsável  tanto pela parte do Front-End, ou seja,
 
 * Desenvolvimento WEB (Utilizando HTML5 & CSS3)
 
+* Controle de versionamento (GIT)  
+
+### Soft skills
+
+* Organização 
+> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas.
+
+* Comunicação 
+> Alcançada por meio da comunicação estabelecida com a equipe, durante reuniões, divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida pelos integrantes.
+ 
+* Proatividade
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto.
+
+* Trabalho em equipe
+> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar os objetivos estabelecidos.
+
+## Em Julho de 2022
+
+</Div align="justify" >
+
+ > [Link para a API do 2º Semestre](https://github.com/IsabelRReis/API-2-ADS)
+
+Resumo da proposta: Desenvolver uma aplicação Java Desktop a fim de registrar canais de marketplaces, meios de pagamentos, plataformas, ERP com usuários, senhas ou tokens fornecidos pelo cliente, com o propósito da empresa parceira acessar as finanças da instituição cadastrada, no qual o aplicativo deverá apresentar um sistema de cadastramento com usuário e operador, e páginas para cadastrar canais, edita-los e gerencia-los.
+
+</Div
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+  <img width="50 rem" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/> Java
+  > Linguagem utilizada durante todo o desenvolvimento da aplicação.
+
+  <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"/> NetBeans 
+  > IDE utilizada no desenvolvimento da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável
+
+  <img width="50 rem" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradore
+
+  <img width="50 rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"/> MySQL 
+  > Utilizamos o MySQL para a hospedagem dos dados cadastrados durante o desenvolvimento do projeto.
+
+  <img width="50 rem" src="https://www.itexperts.com.br/wp-content/uploads/2022/05/30115906/AWS-Cloud-1.png"/> AWS 
+  > Utilizamos o aws para a hospedagem dos dados cadastrados na versão final do projeto.
+
+ </details>
+
+ ### Contribuições pessoais
+
+<Div align="justify" >
+
+No projeto descrito fiquei responsável pela parte do Front-End do porjeto, além da parte de documentação feita no Github.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento WEB (Utilizando Java)
+* Arquitetura de banco de dados (Utilizando MySQL)
+* Controle de dados (MySQL, AWS)
 * Controle de versionamento (GIT)  
 
 ### Soft skills
