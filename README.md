@@ -58,6 +58,9 @@ O projeto integrador teve como colaborador um cliente interno.
 <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/800px-Requests_Python_Logo.png"/> Requests 
   > Utilizamos a biblioteca Requests para que a raspagem de dados fosse possível, extraindo dados de vagas de emprego/estágio reais.
 
+<img width="50 rem" src="https://lh3.googleusercontent.com/o9HtAcCnpfW_o5b1lkhvrJ0lzZBJ6Lm8TwxYue4Z3K5OdekeptiGVAUEPcBC_1ra7cFqAV0QOFByNl3ub_1BJbNe3A=w640-h400-e365-rj-sc0x00ffffff"/> Beautiful soup 
+  > Assim como a biblioteca Requests foi utilizada para que raspagem de dados fosse possível.
+
 <img width="50 rem" src="https://www.seekpng.com/png/detail/70-701539_flask-flask-python-png.png"/> Flask 
   > Utilizamos a biblioteca Flask para criar os componentes base do site de maneira mais dinãmica.
 
@@ -70,7 +73,38 @@ O projeto integrador teve como colaborador um cliente interno.
   <img width="50 rem" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
+  <img width="50 rem" src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png"/> JavaScript 
+  > Utilizamos para criar as pricipais funções do site.
+
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
   > Utilizamos o Python para o 'web scraping', extraindo os links das informações das vagas juntamente com a biblioteca Requests.
 
  </details>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+No projeto descrito fiquei responsável  tanto pela parte do Front-End, ou seja, na parte vizual do site  utilizando HTML5 e CSS3, quanto pela parte do Back-End, funções de raspagem e filtragem dos dados das vagas, e também na parte de documentação feita no Github.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
+
+* Controle de versionamento (GIT)  
+
+### Soft skills
+
+* Organização 
+> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas.
+
+* Comunicação 
+> Alcançada por meio da comunicação estabelecida com a equipe, durante reuniões, divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida pelos integrantes.
+ 
+* Proatividade
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto.
+
+* Trabalho em equipe
+> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar os objetivos estabelecidos.
