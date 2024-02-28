@@ -171,3 +171,37 @@ No projeto descrito fiquei responsável pela parte do Front-End do porjeto, alé
 
 * Trabalho em equipe
 > Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar os objetivos estabelecidos.
+
+### Em fevereiro de 2023
+
+</Div align="justify" >
+
+ > [Link para a API do 3º Semestre](https://github.com/IsabelRReis/API-3-ADS)
+
+Resumo da proposta: Desenvolver um sistema WEB de gerenciamento de usuários, assim como um serviço de autenticação/autorização. O serviço deveria ser implementando utilizando tecnologia de microserviço, utilizando recursos e ferramentas da GCP (Google Cloud Platform).
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+  <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>TypeScript 
+  > Principal linguagem utilizada.
+
+  <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>React 
+  > Principal biblioteca utilizada para o desevolvimento da parte de Front-End do projeto.
+
+  <img width="50 rem" src="https://cdn.iconscout.com/icon/free/png-256/free-nodejs-2-226035.png"/>NodeJS 
+  > IDE utilizada no desevolvimento do projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável
+
+  <img width="50 rem" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradore
+
+ </details>
