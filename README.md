@@ -20,6 +20,8 @@
   <img aligt="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
   <img aligt="center" alt="Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /> 
   <img aligt="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> 
+  <img aligt="center" alt="Python" height="30" width="30" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
+  <img aligt="center" alt="Gemini" height="30" width="30" src="https://img.icons8.com/?size=100&id=eoxMN35Z6JKg&format=png&color=000000"/>
 </div>
 <br>
 <div>
