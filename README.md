@@ -89,29 +89,7 @@ O projeto integrador teve como colaborador um cliente interno.
 
 <Div align="justify" >
 
-No projeto descrito fiquei responsável  tanto pela parte do Front-End, ou seja, na parte vizual do site  utilizando HTML5 e CSS3, quanto pela parte do Back-End, funções de raspagem e filtragem dos dados das vagas, e também na parte de documentação feita no Github.
-
-</Div>
-
-### Hard skills
-
-* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
-
-* Controle de versionamento (GIT)  
-
-### Soft skills
-
-* Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas.
-
-* Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante reuniões, divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida pelos integrantes.
- 
-* Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto.
-
-* Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar os objetivos estabelecidos.
+No projeto descrito fiquei responsável  tanto pela parte do Front-End utilizando HTML5 e CSS3, quanto pela parte do Back-End, funções de raspagem e filtragem dos dados das vagas, e também na parte de documentação feita no Github.
 
 ## Em Julho de 2022
 
@@ -154,30 +132,9 @@ Resumo da proposta: Desenvolver uma aplicação Java Desktop a fim de registrar 
 
 <Div align="justify" >
 
-No projeto descrito fiquei responsável pela parte do Front-End do porjeto, além da parte de documentação feita no Github.
+No projeto descrito fiquei responsável pela parte do Front-End do projeto, além da parte de documentação feita no Github.
 
 </Div>
-
-### Hard skills
-
-* Desenvolvimento WEB (Utilizando Java)
-* Arquitetura de banco de dados (Utilizando MySQL)
-* Controle de dados (MySQL, AWS)
-* Controle de versionamento (GIT)  
-
-### Soft skills
-
-* Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas.
-
-* Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante reuniões, divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida pelos integrantes.
- 
-* Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto.
-
-* Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar os objetivos estabelecidos.
 
 ### Em fevereiro de 2023
 
@@ -215,7 +172,6 @@ Resumo da proposta: Desenvolver um sistema WEB de gerenciamento de usuários, as
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradore
 
  </details>
-
 ### Contribuições pessoais
 
 <Div align="justify" >
@@ -223,27 +179,6 @@ Resumo da proposta: Desenvolver um sistema WEB de gerenciamento de usuários, as
 No projeto descrito fiquei responsável pela parte do Front-End do porjeto, além da parte de documentação feita no Github.
 
 </Div>
-
-### Hard skills
-
-* Desenvolvimento WEB (Utilizando TypeScript, React, NodeJS)
-* Arquitetura de banco de dados (Utilizando PostgreSQL)
-* Controle de dados (PostgreSQL)
-* Controle de versionamento (GIT)  
-
-### Soft skills
-
-* Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas.
-
-* Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante reuniões, divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida pelos integrantes.
- 
-* Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto.
-
-* Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar os objetivos estabelecidos.
 
 ### Em julho de 2023
 
@@ -280,3 +215,10 @@ Resumo da proposta: Sistema Web com Regra de Negócio complexa em ambiente de pr
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradore
 
  </details>
+ ### Contribuições pessoais
+
+<Div align="justify" >
+
+No projeto descrito fiquei responsável pela parte do Back-End do porjeto, arquitetura de banco de dados e testes para correção de bugs.
+
+</Div>
