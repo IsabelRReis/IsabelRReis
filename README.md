@@ -1,6 +1,6 @@
 ## Olá 👋 Seja bem vindo(a), me chamo Isabel Reis e estou na busca para me tornar uma desenvolvedora backend.
 * 🔭 Atualmente estou a procura de oportunidades de estágio.
-* 🌱 Cursando Análise e Desenvolvimento de Sistemas e sempre focada nos estudos de linguagem de programação e I.A.
+* 🌱 Cursando Análise e Desenvolvimento de Sistemas e atualmente focada em Análise Exploratória de Dados e Desenvolvimento de Soluções Inteligentes com I.A.
 * 📫 Contate-me: vitoriavrreis14@gmail.com
 
 
