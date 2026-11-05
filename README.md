@@ -3,14 +3,6 @@
 * 🌱 Cursando Análise e Desenvolvimento de Sistemas e atualmente focada em Análise Exploratória de Dados e Desenvolvimento de Soluções Inteligentes com I.A.
 * 📫 Contate-me: vitoriavrreis14@gmail.com
 
-
-
-<div>
-  <a href="https://github.com/isabelRReis">
-    <img height="180cn" src="https://github-readme-stats.vercel.app/api?username=isabelRReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180cn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelRReis&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img aligt="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
   <img aligt="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
